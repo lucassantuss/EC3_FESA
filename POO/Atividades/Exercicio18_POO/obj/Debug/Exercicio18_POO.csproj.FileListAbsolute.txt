@@ -1,0 +1,10 @@
+E:\ftt\POO\Exercicio18_POO\bin\Debug\Exercicio18_POO.exe.config
+E:\ftt\POO\Exercicio18_POO\bin\Debug\Exercicio18_POO.exe
+E:\ftt\POO\Exercicio18_POO\bin\Debug\Exercicio18_POO.pdb
+E:\ftt\POO\Exercicio18_POO\obj\Debug\Exercicio18_POO.csprojAssemblyReference.cache
+E:\ftt\POO\Exercicio18_POO\obj\Debug\Exercicio18_POO.Form1.resources
+E:\ftt\POO\Exercicio18_POO\obj\Debug\Exercicio18_POO.Properties.Resources.resources
+E:\ftt\POO\Exercicio18_POO\obj\Debug\Exercicio18_POO.csproj.GenerateResource.cache
+E:\ftt\POO\Exercicio18_POO\obj\Debug\Exercicio18_POO.csproj.CoreCompileInputs.cache
+E:\ftt\POO\Exercicio18_POO\obj\Debug\Exercicio18_POO.exe
+E:\ftt\POO\Exercicio18_POO\obj\Debug\Exercicio18_POO.pdb

@@ -1,0 +1,35 @@
+﻿@model List<PessoaViewModel>
+@{
+    ViewData["Title"] = "Listagem";
+}
+
+<link rel="stylesheet" href="~/css/Home/home-sobre.css" />
+<script src="~/js/Curriculo/index.js"></script>
+
+<br />
+<br />
+<h1><b>Listagem de currículos</b></h1>
+<br />
+<br />
+<table class="table table-striped col-md-12">
+    <tr>
+        <th>Nome</th>
+        <th>CPF</th>
+        <th>Ações</th>
+    </tr>
+    @foreach (PessoaViewModel p in Model)
+    {
+        <tr>
+            <td>@p.nome</td>
+            <td>@p.cpf</td>
+            <td>
+                <a href="/Curriculo/Visualizar?id=@p.id" class="btn btn-info">Visualizar</a>
+                <a href="/Curriculo/Edit?id=@p.id" class="btn btn-info">Editar</a>
+                <a href="javascript:apagarPessoa(@p.id)" class="btn btn-danger">Apagar</a>
+            </td>
+        </tr>
+    }
+</table>
+<br />
+<br />
+<br />

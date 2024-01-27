@@ -1,0 +1,10 @@
+C:\AulaFTT\2022-S1\POO\InteragindoComFormularios\InteragindoComFormularios\bin\Debug\InteragindoComFormularios.exe.config
+C:\AulaFTT\2022-S1\POO\InteragindoComFormularios\InteragindoComFormularios\bin\Debug\InteragindoComFormularios.exe
+C:\AulaFTT\2022-S1\POO\InteragindoComFormularios\InteragindoComFormularios\bin\Debug\InteragindoComFormularios.pdb
+C:\AulaFTT\2022-S1\POO\InteragindoComFormularios\InteragindoComFormularios\obj\Debug\InteragindoComFormularios.csproj.AssemblyReference.cache
+C:\AulaFTT\2022-S1\POO\InteragindoComFormularios\InteragindoComFormularios\obj\Debug\InteragindoComFormularios.Form1.resources
+C:\AulaFTT\2022-S1\POO\InteragindoComFormularios\InteragindoComFormularios\obj\Debug\InteragindoComFormularios.Properties.Resources.resources
+C:\AulaFTT\2022-S1\POO\InteragindoComFormularios\InteragindoComFormularios\obj\Debug\InteragindoComFormularios.csproj.GenerateResource.cache
+C:\AulaFTT\2022-S1\POO\InteragindoComFormularios\InteragindoComFormularios\obj\Debug\InteragindoComFormularios.csproj.CoreCompileInputs.cache
+C:\AulaFTT\2022-S1\POO\InteragindoComFormularios\InteragindoComFormularios\obj\Debug\InteragindoComFormularios.exe
+C:\AulaFTT\2022-S1\POO\InteragindoComFormularios\InteragindoComFormularios\obj\Debug\InteragindoComFormularios.pdb

@@ -1,0 +1,39 @@
+﻿@model List<CidadeViewModel>
+@*
+    For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
+*@
+@{
+
+}
+
+<a href="/cidade/create" class="btn btn-info">Novo Registro</a>
+<br />
+
+<h1>Listagem de cidades</h1>
+<table class="table table-responsive table-striped">
+    <tr>
+        <th>Ações</th>
+        <th>Id</th>
+        <th>Nome</th>        
+    </tr>
+    @foreach (var a in Model)
+    {
+        <tr>
+            <td>
+                <a href="/cidade/Edit?id=@a.Id" class="btn btn-info">Editar</a>
+                <a href="javascript:apagarCidade(@a.Id)" class="btn btn-danger">Apagar</a>
+            </td>
+            <td>@a.Id</td>
+            <td>@a.Nome</td>            
+        </tr>
+    }
+</table>
+
+
+
+<script>
+    function apagarCidade(id) {
+        if (confirm('Confirma a exclusão do registro?'))
+            location.href = 'cidade/Delete?id=' + id;
+    }
+</script>
